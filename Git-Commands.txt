@@ -1,0 +1,5 @@
+$ git log
+$ git clone
+$ git diff commitid1 commitid2
+$ git checkout commitid
+$ git status
