@@ -3,3 +3,13 @@ $ git clone
 $ git diff commitid1 commitid2
 $ git checkout commitid
 $ git status
+
+
+$ git add helloworld.txt // Adds to the staging area
+$ git status // See files that are in the staging area
+$ git commit -m "My first commit"
+$ git log
+
+$ git diff // Compares staging area with working dir files
+$ git diff --staged // Compares recent commit with staged files
+$ git diff commitid1 commitid2 // Compares two different commits
