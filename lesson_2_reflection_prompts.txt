@@ -28,3 +28,6 @@ It results in adding code from a side branch to the main branch
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+Git Automatic Merging is good if code is added to different parts of the file.
+
+

@@ -25,3 +25,7 @@ $ git merge master coins // Merge coins branch into master
 $ git show commitid // Show the commitid of its parent
 
 $ git branch -d coins // deletes the coins branch i.e deletes the lable coins but the commits are always in tact
+
+$ git log -n 1 // Displays only the last commit
+
+
