@@ -29,3 +29,19 @@ $ git branch -d coins // deletes the coins branch i.e deletes the lable coins bu
 $ git log -n 1 // Displays only the last commit
 
 
+// Commands for github or remote repo
+
+$ git remote // List of all remotes 
+$ git remote add origin https://github.com/psajja/reflections.git // Create a remote repo named origin and is at the link https://....
+
+$ git push origin master // send all the reacheable commit of the master branch to the remote origin
+
+
+
+
+
+
+
+
+
+
