@@ -13,3 +13,8 @@ $ git log
 $ git diff // Compares staging area with working dir files
 $ git diff --staged // Compares recent commit with staged files
 $ git diff commitid1 commitid2 // Compares two different commits
+
+
+$ git branch // lists all the branches
+$ git branch easy-mode // Creates a new easy mode branch
+$ git checkout easy-mode // Checks out easy-mode brach
