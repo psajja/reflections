@@ -17,9 +17,14 @@ Git Branch would be especially useful when you are trying to experiment with the
 
 
 How do the diagrams help you visualize the branch structure?
+Git branches help you visualize the commits that are reachable from the commit all the braches
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+It results in adding code from a side branch to the main branch
+
+
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?

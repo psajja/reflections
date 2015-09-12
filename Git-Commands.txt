@@ -18,3 +18,10 @@ $ git diff commitid1 commitid2 // Compares two different commits
 $ git branch // lists all the branches
 $ git branch easy-mode // Creates a new easy mode branch
 $ git checkout easy-mode // Checks out easy-mode brach
+
+$ git log --graph --oneline master coins // Check out the commits of master and coins branches and compare both of them
+
+$ git merge master coins // Merge coins branch into master
+$ git show commitid // Show the commitid of its parent
+
+$ git branch -d coins // deletes the coins branch i.e deletes the lable coins but the commits are always in tact
