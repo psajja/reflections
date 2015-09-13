@@ -9,8 +9,10 @@ You would have control over what is in your local repo. It this occurs automatic
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
+Forks : If you want to make a clone of someoneelse project on github(u r account)
+Clones : If you want to make a copy of a project on local machine
+Branch : In a repo, if you want to make changes or experimental changes without effecting the master branch. 
 
-    Fill in your answer here
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
