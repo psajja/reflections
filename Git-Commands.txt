@@ -36,7 +36,7 @@ $ git remote add origin https://github.com/psajja/reflections.git // Create a re
 
 $ git push origin master // send all the reacheable commit of the master branch to the remote origin
 
-
+$ git pull origin master // To pull Changes made to the remote and add them to the local repo
 
 
 
