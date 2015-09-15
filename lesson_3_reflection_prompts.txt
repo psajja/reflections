@@ -16,13 +16,11 @@ Branch : In a repo, if you want to make changes or experimental changes without 
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+The last known state is named by the lable origin/master. This will help in the merge step later on
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
+It would really hard to collaborate without using GitHub
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?

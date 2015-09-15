@@ -43,8 +43,9 @@ $ git clone https://github.com/psajja/recipes.git // To Clone a repo on github
 // Just as a side note, this will contain a remote "origin" pointing to git location for pushing changes after you made to the clone
 
 
+$ git pull origin master = git fetch origin master + git merge master orgin/master
 
-
+$ git fetch origin // if local repo has some changes and remote has some changes, theyn fetch will add remote changes to the local when it was last pulled by creating a branch
 
 
 
